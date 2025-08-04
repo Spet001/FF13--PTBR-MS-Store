@@ -112,7 +112,7 @@ Este guia te dá as ferramentas e o conhecimento para aplicar a tradução do Fi
 
 Boa sorte e aproveite o jogo!
 
-![demo](mdaAsets/demo.png)
+![demo](mdAssets/demo.png)
 
 # Bastidores da Tradução: Desafios e Agradecimentos
 
