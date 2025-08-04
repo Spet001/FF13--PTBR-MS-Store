@@ -106,7 +106,7 @@ Distribuir os arquivos do jogo com a tradução aplicada configuraria pirataria,
 
 ## ✅ Conclusão e Como Reverter
 - **Processo Concluído**: Após o processo de "injecting" (tanto do `sys` quanto, se você tentou, da `zone`) finalizar, feche a janela do PowerShell e tente iniciar o jogo.  
-- **Reverter o Jogo**: Se quiser reverter,utilize seu backup.
+- **Reverter o Jogo**: Se quiser reverter,utilize seu backup. 
 
 Este guia te dá as ferramentas e o conhecimento para aplicar a tradução do Final Fantasy XIII. É um processo que exige paciência e atenção, mas a recompensa é jogar em seu idioma! Se tiver dúvidas, procure comunidades de modding de jogos ou fóruns especializados.  
 
